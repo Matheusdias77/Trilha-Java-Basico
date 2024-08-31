@@ -15,7 +15,7 @@ O projeto está organizado da seguinte forma:
 1. **Clone o Repositório:**
 
     ```bash
-    git clone https:https://github.com/Matheusdias77/Trilha-Java-Basico.git
+    git clone https://github.com/Matheusdias77/Trilha-Java-Basico.git
     ```
 
 2. **Navegue até a Pasta do Projeto:**
