@@ -4,12 +4,12 @@
 2. Dentro do projeto, crie a classe **ContaTerminal.java** para realizar toda a codificação do nosso programa.
 
 
-| Atributo      | Tipo    | Exemplo     |
-|---------------|---------|-------------|
-| Número        | Inteiro | 1021        |
-| Agência       | Texto   | 067-8       |
-| Nome Cliente  | Texto   | MARIO ANDRADE|
-| Saldo         | Decimal | 237.48      |
+  | Atributo      | Tipo    | Exemplo     |
+  |---------------|---------|-------------|
+  | Número        | Inteiro | 1021        |
+  | Agência       | Texto   | 067-8       |
+  | Nome Cliente  | Texto   | MARIO ANDRADE|
+  | Saldo         | Decimal | 237.48      |
 
 
 3. Permita que os dados sejam inseridos via terminal sendo que o usuário receberá a mensagem de qual informação será solicitada, exemplo:
