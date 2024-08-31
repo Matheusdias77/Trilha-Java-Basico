@@ -1,9 +1,10 @@
 # Desafio
 
 <span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">ContaBanco</span>
+<span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">ContaTerminal.java</span>
 
 1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
-2. Dentro do projeto, crie a classe **ContaTerminal.java** para realizar toda a codificação do nosso programa.
+2. Dentro do projeto, crie a classe `ContaTerminal.java` para realizar toda a codificação do nosso programa.
    
 
 
