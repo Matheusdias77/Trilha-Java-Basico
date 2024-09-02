@@ -1,12 +1,5 @@
 # Controle de Fluxo - Desafio
 
-<span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">Imprimindo o número 1</span>
-<span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">Imprimindo o número 2</span>
-<span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">ParametrosInvalidosException</span>
-<span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">DesafioControleFluxo</span>
-<span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">Contador.java</span>
-<span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">ParametrosInvalidosException</span>
-
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
 
 O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
